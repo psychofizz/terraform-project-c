@@ -1,4 +1,4 @@
-# Storage / Messaging
+# Database/Cache
 Hai, this is project C in the ABC series of the terraform e-commerce solution. 
 This part has the database and the cache.
 
